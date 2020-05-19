@@ -50,55 +50,12 @@ namespace MonogameSoftBody
             AccumulateForces();
             IntegrateEuler();
             Debug.WriteLine(myPoints[0].Position);
-
-            //if (pressure < finalPressure)
-            //{
-            //    pressure += finalPressure * .01f;
-            //}
-            //else
-            //{
-            //    pressure =0f;
-            //}
-        }
-
-        public void CreateBox()
-        {
-            numPoints = 8;
-            numSprings = 8;
-            myPoints = new Point[8];
-            mySprings = new Spring[8];
-
-            //set points
-            myPoints[0] = new Point();
-            myPoints[1] = new Point();
-            myPoints[2] = new Point();
-            myPoints[3] = new Point();
-            myPoints[4] = new Point();
-            myPoints[5] = new Point();
-            myPoints[6] = new Point();
-            myPoints[7] = new Point();
-
-            myPoints[7].Position = new Vector2(301, 300);
-            myPoints[6].Position = new Vector2(350, 302);
-            myPoints[5].Position = new Vector2(400, 301);
-            myPoints[4].Position = new Vector2(402, 350);
-            myPoints[3].Position = new Vector2(400, 405);
-            myPoints[2].Position = new Vector2(351, 401);
-            myPoints[1].Position = new Vector2(301, 400);
-            myPoints[0].Position = new Vector2(303, 351);
-
-            //set springs
-            for (int i = 0; i < numPoints - 1; ++i)
-            {
-                AddSpring(i, i, i + 1);
-            }
-            AddSpring(numSprings - 1, numPoints - 1, 0);
         }
 
         public void CreateBall() // Sets points around 0,0 in a circle.
         {
-           
-            for (int i = 0; i < numPoints; ++i)     // create points
+			// create points
+			for (int i = 0; i < numPoints; ++i)    
             {
                 myPoints[i] = new Point();
                 myPoints[i].Position = new Vector2
@@ -111,19 +68,20 @@ namespace MonogameSoftBody
             {
                 AddSpring(i, i, i + 1);
             }
-            AddSpring(numSprings-1, numPoints-1, 0); //connect last point to first point
+			//Connect last point to first point
+			AddSpring(numSprings-1, numPoints-1, 0); 
         }
 
         public void AddSpring(int index, int i, int j)
-        {
-            mySprings[index] = new Spring
+		{
+			//Pythagorean to find distance betwen connected points
+			mySprings[index] = new Spring
                 (springConstant, Math.Sqrt(Math.Pow(myPoints[i].Position.X - 
                 myPoints[j].Position.X, 2) + Math.Pow(myPoints[i].Position.Y -
                 myPoints[j].Position.Y, 2)));
 
             mySprings[index].pI = i;
             mySprings[index].pJ = j;
-            //pythagorean to find distance betwen connected points
         }
 
         public void AccumulateForces()
@@ -224,7 +182,7 @@ namespace MonogameSoftBody
                 drx = myPoints[i].Velocity.X * timeSlice;
                 dry = myPoints[i].Velocity.Y * timeSlice;
 
-                ///* Boundaries  X */
+                /* Boundaries  X */
                 if (myPoints[i].Position.X + drx < 0)
                 {
                     drx = 0 - myPoints[i].Position.X;
@@ -248,7 +206,7 @@ namespace MonogameSoftBody
                 myPoints[i].Position += new Vector2(drx, dry);
 
 
-                ///* fast chek if outside */
+                /* fast chek if outside */
                 if (myPoints[i].Position.X > windowWidth)
                     myPoints[i].Position = new Vector2(windowWidth, myPoints[i].Position.Y);
                 if (myPoints[i].Position.Y > windowHeight)
@@ -273,15 +231,16 @@ namespace MonogameSoftBody
 
     class Point
     {
-        
         public Vector2 Position { get; set; }
         public Vector2 Velocity { get; set; }
         public Vector2 Force { get; set; }
 
         public Point()
         {
-            
-        }
+			Position = new Vector2(0, 0);
+			Velocity = new Vector2(0, 0);
+			Force = new Vector2(0, 0);
+		}
 
         public Point(Vector2 position, Vector2 velocity, Vector2 force)
         {

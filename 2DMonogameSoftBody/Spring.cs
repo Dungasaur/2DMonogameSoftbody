@@ -15,21 +15,19 @@ namespace MonogameSoftBody
         public double LRest { get; set; }
         public double nx { get; set; } //normal vector (x)
         public double ny { get; set; } //normal vector (y)
+
         // Constructors
         public Spring(double LRest, double LStretched,double force)
         {
             this.LRest = LRest;
             K = Math.Abs(force / (LStretched-LRest));
-        }//eom
+        }
 
         public Spring(double k, double lRest)
         {
             K = k;
             LRest = lRest;
-        }//eom
-
-        //1.a
-        
+        }
 
         #region Class Methods
         // 2.a - Calculate restorative force
@@ -51,7 +49,7 @@ namespace MonogameSoftBody
             return os / (2 * Math.PI);
         }
 
-        // 2.d - Calculate Velocity at rest length - Does not work
+        // 2.d - Calculate Velocity at rest length
 
         public double Velocity(double amplitude, double mass)
         {
@@ -62,5 +60,5 @@ namespace MonogameSoftBody
         }
 
         #endregion
-    }//eoc
-}//eon
+    }
+}

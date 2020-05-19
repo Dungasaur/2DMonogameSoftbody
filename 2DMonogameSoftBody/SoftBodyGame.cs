@@ -39,7 +39,6 @@ namespace MonogameSoftBody
 
             //Dampening - 0-1: oscillates, fast - 1: fastest  - >1: slower
             sb.CreateBall();
-            //sb.CreateBox();
             base.Initialize();
             
         }
@@ -54,7 +53,6 @@ namespace MonogameSoftBody
             spriteBatch = new SpriteBatch(GraphicsDevice);
             pVisual = Content.Load<Texture2D>("point");
         }
-
 
         protected override void Update(GameTime gameTime)
         {
