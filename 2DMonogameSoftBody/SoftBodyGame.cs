@@ -33,8 +33,10 @@ namespace MonogameSoftBody
             graphics.PreferredBackBufferWidth = WindowWidth;
             graphics.PreferredBackBufferHeight = WindowHeight;
             graphics.ApplyChanges();
+
 			// Change these numbers to affect the softbody
             sb = new SoftBody(20, 1f, 100, 50, 1f, 10, 500, WindowWidth, WindowHeight);
+
             //Dampening - 0-1: oscillates, fast - 1: fastest  - >1: slower
             sb.CreateBall();
             //sb.CreateBox();

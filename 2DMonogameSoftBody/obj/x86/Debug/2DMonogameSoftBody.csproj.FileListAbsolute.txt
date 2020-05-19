@@ -46,3 +46,27 @@ E:\Computer\Desktop\For Portfolio\MathPhysSoftBody\2DMonogameSoftBody\obj\x86\De
 E:\Computer\Desktop\For Portfolio\MathPhysSoftBody\2DMonogameSoftBody\obj\x86\Debug\2DMonogameSoftBody.csproj.CopyComplete
 E:\Computer\Desktop\For Portfolio\MathPhysSoftBody\2DMonogameSoftBody\obj\x86\Debug\MathPhysSoftBody.exe
 E:\Computer\Desktop\For Portfolio\MathPhysSoftBody\2DMonogameSoftBody\obj\x86\Debug\MathPhysSoftBody.pdb
+E:\Fluffles\Documents\Repositories\2DMonogameSoftbody\2DMonogameSoftBody\bin\Windows\x86\Debug\Content\point.xnb
+E:\Fluffles\Documents\Repositories\2DMonogameSoftbody\2DMonogameSoftBody\bin\Windows\x86\Debug\MathPhysSoftBody.exe
+E:\Fluffles\Documents\Repositories\2DMonogameSoftbody\2DMonogameSoftBody\bin\Windows\x86\Debug\MathPhysSoftBody.pdb
+E:\Fluffles\Documents\Repositories\2DMonogameSoftbody\2DMonogameSoftBody\bin\Windows\x86\Debug\MonoGame.Framework.dll
+E:\Fluffles\Documents\Repositories\2DMonogameSoftbody\2DMonogameSoftBody\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+E:\Fluffles\Documents\Repositories\2DMonogameSoftbody\2DMonogameSoftBody\bin\Windows\x86\Debug\SharpDX.dll
+E:\Fluffles\Documents\Repositories\2DMonogameSoftbody\2DMonogameSoftBody\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+E:\Fluffles\Documents\Repositories\2DMonogameSoftbody\2DMonogameSoftBody\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+E:\Fluffles\Documents\Repositories\2DMonogameSoftbody\2DMonogameSoftBody\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+E:\Fluffles\Documents\Repositories\2DMonogameSoftbody\2DMonogameSoftBody\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+E:\Fluffles\Documents\Repositories\2DMonogameSoftbody\2DMonogameSoftBody\bin\Windows\x86\Debug\SharpDX.XInput.dll
+E:\Fluffles\Documents\Repositories\2DMonogameSoftbody\2DMonogameSoftBody\bin\Windows\x86\Debug\MonoGame.Framework.xml
+E:\Fluffles\Documents\Repositories\2DMonogameSoftbody\2DMonogameSoftBody\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+E:\Fluffles\Documents\Repositories\2DMonogameSoftbody\2DMonogameSoftBody\bin\Windows\x86\Debug\SharpDX.xml
+E:\Fluffles\Documents\Repositories\2DMonogameSoftbody\2DMonogameSoftBody\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+E:\Fluffles\Documents\Repositories\2DMonogameSoftbody\2DMonogameSoftBody\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+E:\Fluffles\Documents\Repositories\2DMonogameSoftbody\2DMonogameSoftBody\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+E:\Fluffles\Documents\Repositories\2DMonogameSoftbody\2DMonogameSoftBody\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+E:\Fluffles\Documents\Repositories\2DMonogameSoftbody\2DMonogameSoftBody\bin\Windows\x86\Debug\SharpDX.XInput.xml
+E:\Fluffles\Documents\Repositories\2DMonogameSoftbody\2DMonogameSoftBody\obj\x86\Debug\2DMonogameSoftBody.csprojAssemblyReference.cache
+E:\Fluffles\Documents\Repositories\2DMonogameSoftbody\2DMonogameSoftBody\obj\x86\Debug\2DMonogameSoftBody.csproj.CoreCompileInputs.cache
+E:\Fluffles\Documents\Repositories\2DMonogameSoftbody\2DMonogameSoftBody\obj\x86\Debug\2DMonogameSoftBody.csproj.CopyComplete
+E:\Fluffles\Documents\Repositories\2DMonogameSoftbody\2DMonogameSoftBody\obj\x86\Debug\MathPhysSoftBody.exe
+E:\Fluffles\Documents\Repositories\2DMonogameSoftbody\2DMonogameSoftBody\obj\x86\Debug\MathPhysSoftBody.pdb
