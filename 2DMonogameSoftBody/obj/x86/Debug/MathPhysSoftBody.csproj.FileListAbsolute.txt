@@ -1,0 +1,96 @@
+F:\MathPhysSoftBody\MathPhysSoftBody\bin\Windows\x86\Debug\MathPhysSoftBody.exe
+F:\MathPhysSoftBody\MathPhysSoftBody\bin\Windows\x86\Debug\MathPhysSoftBody.pdb
+F:\MathPhysSoftBody\MathPhysSoftBody\bin\Windows\x86\Debug\MonoGame.Framework.dll
+F:\MathPhysSoftBody\MathPhysSoftBody\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+F:\MathPhysSoftBody\MathPhysSoftBody\bin\Windows\x86\Debug\SharpDX.dll
+F:\MathPhysSoftBody\MathPhysSoftBody\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+F:\MathPhysSoftBody\MathPhysSoftBody\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+F:\MathPhysSoftBody\MathPhysSoftBody\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+F:\MathPhysSoftBody\MathPhysSoftBody\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+F:\MathPhysSoftBody\MathPhysSoftBody\bin\Windows\x86\Debug\SharpDX.XInput.dll
+F:\MathPhysSoftBody\MathPhysSoftBody\bin\Windows\x86\Debug\MonoGame.Framework.xml
+F:\MathPhysSoftBody\MathPhysSoftBody\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+F:\MathPhysSoftBody\MathPhysSoftBody\bin\Windows\x86\Debug\SharpDX.xml
+F:\MathPhysSoftBody\MathPhysSoftBody\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+F:\MathPhysSoftBody\MathPhysSoftBody\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+F:\MathPhysSoftBody\MathPhysSoftBody\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+F:\MathPhysSoftBody\MathPhysSoftBody\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+F:\MathPhysSoftBody\MathPhysSoftBody\bin\Windows\x86\Debug\SharpDX.XInput.xml
+F:\MathPhysSoftBody\MathPhysSoftBody\obj\x86\Debug\MathPhysSoftBody.csprojAssemblyReference.cache
+F:\MathPhysSoftBody\MathPhysSoftBody\obj\x86\Debug\MathPhysSoftBody.csproj.CoreCompileInputs.cache
+F:\MathPhysSoftBody\MathPhysSoftBody\obj\x86\Debug\MathPhysSoftBody.csproj.CopyComplete
+F:\MathPhysSoftBody\MathPhysSoftBody\obj\x86\Debug\MathPhysSoftBody.exe
+F:\MathPhysSoftBody\MathPhysSoftBody\obj\x86\Debug\MathPhysSoftBody.pdb
+F:\MathPhysSoftBody\MathPhysSoftBody\bin\Windows\x86\Debug\Content\point.xnb
+G:\MathPhysSoftBody\MathPhysSoftBody\bin\Windows\x86\Debug\Content\point.xnb
+G:\MathPhysSoftBody\MathPhysSoftBody\bin\Windows\x86\Debug\MathPhysSoftBody.exe
+G:\MathPhysSoftBody\MathPhysSoftBody\bin\Windows\x86\Debug\MathPhysSoftBody.pdb
+G:\MathPhysSoftBody\MathPhysSoftBody\bin\Windows\x86\Debug\MonoGame.Framework.dll
+G:\MathPhysSoftBody\MathPhysSoftBody\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+G:\MathPhysSoftBody\MathPhysSoftBody\bin\Windows\x86\Debug\SharpDX.dll
+G:\MathPhysSoftBody\MathPhysSoftBody\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+G:\MathPhysSoftBody\MathPhysSoftBody\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+G:\MathPhysSoftBody\MathPhysSoftBody\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+G:\MathPhysSoftBody\MathPhysSoftBody\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+G:\MathPhysSoftBody\MathPhysSoftBody\bin\Windows\x86\Debug\SharpDX.XInput.dll
+G:\MathPhysSoftBody\MathPhysSoftBody\bin\Windows\x86\Debug\MonoGame.Framework.xml
+G:\MathPhysSoftBody\MathPhysSoftBody\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+G:\MathPhysSoftBody\MathPhysSoftBody\bin\Windows\x86\Debug\SharpDX.xml
+G:\MathPhysSoftBody\MathPhysSoftBody\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+G:\MathPhysSoftBody\MathPhysSoftBody\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+G:\MathPhysSoftBody\MathPhysSoftBody\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+G:\MathPhysSoftBody\MathPhysSoftBody\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+G:\MathPhysSoftBody\MathPhysSoftBody\bin\Windows\x86\Debug\SharpDX.XInput.xml
+G:\MathPhysSoftBody\MathPhysSoftBody\obj\x86\Debug\MathPhysSoftBody.csprojAssemblyReference.cache
+G:\MathPhysSoftBody\MathPhysSoftBody\obj\x86\Debug\MathPhysSoftBody.csproj.CoreCompileInputs.cache
+G:\MathPhysSoftBody\MathPhysSoftBody\obj\x86\Debug\MathPhysSoftBody.csproj.CopyComplete
+G:\MathPhysSoftBody\MathPhysSoftBody\obj\x86\Debug\MathPhysSoftBody.exe
+G:\MathPhysSoftBody\MathPhysSoftBody\obj\x86\Debug\MathPhysSoftBody.pdb
+E:\Computer\Desktop\NAIT\MathPhysSoftBody\MathPhysSoftBody\bin\Windows\x86\Debug\Content\point.xnb
+E:\Computer\Desktop\NAIT\MathPhysSoftBody\MathPhysSoftBody\bin\Windows\x86\Debug\MathPhysSoftBody.exe
+E:\Computer\Desktop\NAIT\MathPhysSoftBody\MathPhysSoftBody\bin\Windows\x86\Debug\MathPhysSoftBody.pdb
+E:\Computer\Desktop\NAIT\MathPhysSoftBody\MathPhysSoftBody\bin\Windows\x86\Debug\MonoGame.Framework.dll
+E:\Computer\Desktop\NAIT\MathPhysSoftBody\MathPhysSoftBody\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+E:\Computer\Desktop\NAIT\MathPhysSoftBody\MathPhysSoftBody\bin\Windows\x86\Debug\SharpDX.dll
+E:\Computer\Desktop\NAIT\MathPhysSoftBody\MathPhysSoftBody\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+E:\Computer\Desktop\NAIT\MathPhysSoftBody\MathPhysSoftBody\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+E:\Computer\Desktop\NAIT\MathPhysSoftBody\MathPhysSoftBody\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+E:\Computer\Desktop\NAIT\MathPhysSoftBody\MathPhysSoftBody\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+E:\Computer\Desktop\NAIT\MathPhysSoftBody\MathPhysSoftBody\bin\Windows\x86\Debug\SharpDX.XInput.dll
+E:\Computer\Desktop\NAIT\MathPhysSoftBody\MathPhysSoftBody\bin\Windows\x86\Debug\MonoGame.Framework.xml
+E:\Computer\Desktop\NAIT\MathPhysSoftBody\MathPhysSoftBody\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+E:\Computer\Desktop\NAIT\MathPhysSoftBody\MathPhysSoftBody\bin\Windows\x86\Debug\SharpDX.xml
+E:\Computer\Desktop\NAIT\MathPhysSoftBody\MathPhysSoftBody\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+E:\Computer\Desktop\NAIT\MathPhysSoftBody\MathPhysSoftBody\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+E:\Computer\Desktop\NAIT\MathPhysSoftBody\MathPhysSoftBody\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+E:\Computer\Desktop\NAIT\MathPhysSoftBody\MathPhysSoftBody\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+E:\Computer\Desktop\NAIT\MathPhysSoftBody\MathPhysSoftBody\bin\Windows\x86\Debug\SharpDX.XInput.xml
+E:\Computer\Desktop\NAIT\MathPhysSoftBody\MathPhysSoftBody\obj\x86\Debug\MathPhysSoftBody.csprojAssemblyReference.cache
+E:\Computer\Desktop\NAIT\MathPhysSoftBody\MathPhysSoftBody\obj\x86\Debug\MathPhysSoftBody.csproj.CoreCompileInputs.cache
+E:\Computer\Desktop\NAIT\MathPhysSoftBody\MathPhysSoftBody\obj\x86\Debug\MathPhysSoftBody.csproj.CopyComplete
+E:\Computer\Desktop\NAIT\MathPhysSoftBody\MathPhysSoftBody\obj\x86\Debug\MathPhysSoftBody.exe
+E:\Computer\Desktop\NAIT\MathPhysSoftBody\MathPhysSoftBody\obj\x86\Debug\MathPhysSoftBody.pdb
+E:\Computer\Desktop\For Portfolio\MathPhysSoftBody\MathPhysSoftBody\bin\Windows\x86\Debug\Content\point.xnb
+E:\Computer\Desktop\For Portfolio\MathPhysSoftBody\MathPhysSoftBody\bin\Windows\x86\Debug\MathPhysSoftBody.exe
+E:\Computer\Desktop\For Portfolio\MathPhysSoftBody\MathPhysSoftBody\bin\Windows\x86\Debug\MathPhysSoftBody.pdb
+E:\Computer\Desktop\For Portfolio\MathPhysSoftBody\MathPhysSoftBody\bin\Windows\x86\Debug\MonoGame.Framework.dll
+E:\Computer\Desktop\For Portfolio\MathPhysSoftBody\MathPhysSoftBody\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+E:\Computer\Desktop\For Portfolio\MathPhysSoftBody\MathPhysSoftBody\bin\Windows\x86\Debug\SharpDX.dll
+E:\Computer\Desktop\For Portfolio\MathPhysSoftBody\MathPhysSoftBody\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+E:\Computer\Desktop\For Portfolio\MathPhysSoftBody\MathPhysSoftBody\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+E:\Computer\Desktop\For Portfolio\MathPhysSoftBody\MathPhysSoftBody\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+E:\Computer\Desktop\For Portfolio\MathPhysSoftBody\MathPhysSoftBody\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+E:\Computer\Desktop\For Portfolio\MathPhysSoftBody\MathPhysSoftBody\bin\Windows\x86\Debug\SharpDX.XInput.dll
+E:\Computer\Desktop\For Portfolio\MathPhysSoftBody\MathPhysSoftBody\bin\Windows\x86\Debug\MonoGame.Framework.xml
+E:\Computer\Desktop\For Portfolio\MathPhysSoftBody\MathPhysSoftBody\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+E:\Computer\Desktop\For Portfolio\MathPhysSoftBody\MathPhysSoftBody\bin\Windows\x86\Debug\SharpDX.xml
+E:\Computer\Desktop\For Portfolio\MathPhysSoftBody\MathPhysSoftBody\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+E:\Computer\Desktop\For Portfolio\MathPhysSoftBody\MathPhysSoftBody\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+E:\Computer\Desktop\For Portfolio\MathPhysSoftBody\MathPhysSoftBody\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+E:\Computer\Desktop\For Portfolio\MathPhysSoftBody\MathPhysSoftBody\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+E:\Computer\Desktop\For Portfolio\MathPhysSoftBody\MathPhysSoftBody\bin\Windows\x86\Debug\SharpDX.XInput.xml
+E:\Computer\Desktop\For Portfolio\MathPhysSoftBody\MathPhysSoftBody\obj\x86\Debug\MathPhysSoftBody.csprojAssemblyReference.cache
+E:\Computer\Desktop\For Portfolio\MathPhysSoftBody\MathPhysSoftBody\obj\x86\Debug\MathPhysSoftBody.csproj.CoreCompileInputs.cache
+E:\Computer\Desktop\For Portfolio\MathPhysSoftBody\MathPhysSoftBody\obj\x86\Debug\MathPhysSoftBody.csproj.CopyComplete
+E:\Computer\Desktop\For Portfolio\MathPhysSoftBody\MathPhysSoftBody\obj\x86\Debug\MathPhysSoftBody.exe
+E:\Computer\Desktop\For Portfolio\MathPhysSoftBody\MathPhysSoftBody\obj\x86\Debug\MathPhysSoftBody.pdb
